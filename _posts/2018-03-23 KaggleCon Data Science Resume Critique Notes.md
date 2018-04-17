@@ -139,8 +139,49 @@ Not your job to reject yourself. Its their job to reject you!
 Understand what they want from Production experience.
 - Collaborative on code? Actual data?
 
+#Building a Compelling resume
+##9 Tips##
+### Tip 1: Length, Keep it simple
+- 1 page, simple, 1 column
+- Sample resume by Sourabh Bajaj [https://github.com/sb2nov/resume](https://github.com/sb2nov/resume)
 
+### Tip 2: Dont include Objectives
+- Dont really help you to distinguish
+- Include your summary into the cover letter if you want to.
+
+### Tip 3: List relevant coursework
+![](/relevant_csework.png)
+- Put the most relevant course (to the job application first)
+
+### Tip 4:Dont give numerical ratings to your skills.
+- Can put proficient if you want to.
+- Focus on your technical skills. Softskills shouldnt be the focus
+
+
+### Tip 5: List technical skill sthat the job mentions
+![](/good_skilllist.png)
+- R or python first. unless dictated by the resume
+
+-
+### Tip 6:Dont list common projects or homework
+![](/projects_1.png) 
+
+### Tip 7:Show results and include links
+![](/skills_2.png)
+- include your Kaggle percentile rank (anything above top 10% is very good
+- include links for hiring managers to find out more
+
+### Tip 8: Update your online presence
+- LinkedIn
+- Kaggle & Github profiles
+- Update your project descriptions in the github repos
+- Blog,quora,stack overflow = communicating
+
+### Tip 9: Tailor your experience towards the job
+![](/workexp.png)
+- 
 ---
 Credits: Kaggle Career con 2018 
 [Live Portfolio & Resume Analysis](https://www.youtube.com/watch?v=kBR0EtGOkzc)
 [Identifying Best Data Science Opportunities](https://www.youtube.com/watch?v=0W0Zrc-m5r8)
+[Building a Compelling Resume](https://www.youtube.com/watch?v=xrhPjE7wHas&t=297s)
